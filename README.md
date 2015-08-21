@@ -1,7 +1,7 @@
 Thinkcoin integration/staging tree
 ================================
 
-http://www.thinkcoin.org
+http://www.thinkcoin.cu.cc
 
 Copyright (c) 2009-2015 Bitcoin Developers
 Copyright (c) 2011-2015 Thinkcoin Developers
