@@ -1,0 +1,9 @@
+Building Thinkcoin
+
+See doc/readme-qt.rst for instructions on building Thinkcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Thinkcoin.
+
+See doc/build-*.txt for instructions on building thinkcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Thinkcoin.
